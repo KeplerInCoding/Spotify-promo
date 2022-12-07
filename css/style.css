@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    color:rgb(207, 229, 234);
+    line-height:1.5;
+    padding:0px 40px 0px 40px;
+    margin:0;
+    background-color:#031c27;
+
+
+}
+
+/* global */
+.container{
+    width:90;
+    margin:auto;
+    overflow:hidden;
+}
+
+/*header"*/
+header{
+    background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Faryankhan966570%2Fbackground-images-hd%2F&psig=AOvVaw29G8gUKE9CPYHsHtRP9Fl5&ust=1668346896844000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjG4NHiqPsCFQAAAAAdAAAAABAE")
+
+    
